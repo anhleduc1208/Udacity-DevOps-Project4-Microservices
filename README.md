@@ -1,5 +1,5 @@
 <include a CircleCI status badge, here>
-[![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=shield)](https://circleci.com/gh/circleci/circleci-docs)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/anhleduc1208/Udacity-DevOps-Project4-Microservices/tree/main.svg?style=shield)](https://dl.circleci.com/status-badge/redirect/gh/anhleduc1208/Udacity-DevOps-Project4-Microservices/tree/main)
 
 ## Project Overview
 
